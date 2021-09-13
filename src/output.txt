@@ -1,1 +1,10 @@
-"This is output of task3"
+fun4 call 1 in 0.0 sec
+Name:	fun4
+Type:	<class 'function'>
+Sign:	(n)
+Args:	 positional: (5,) 
+	 Keyworded:{}
+Doc:	print pascal traingle
+Output:	 [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1]]
+
+
