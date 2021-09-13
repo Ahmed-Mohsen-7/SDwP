@@ -1,4 +1,6 @@
-import time,inspect,contextlib,io
+import time,contextlib,io
+from inspect import signature,getsource
+
 rank={}
 class decorator_3:
     def __init__(self,func):
