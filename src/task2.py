@@ -1,5 +1,5 @@
 import time,io
-import inspect
+from inspect import signature,getsource
 import contextlib
 
 def decorator_2(fun):
